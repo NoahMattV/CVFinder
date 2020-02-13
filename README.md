@@ -1,9 +1,5 @@
-# CV Finder
-Created by Noah Van Der Weide
-
-University of Wisconsin - Madison 
-
-December 2019
+# CVFinder
+Copyright © 2019 Noah Van Der Weide
 
 Summary
 -----------------------------------------
